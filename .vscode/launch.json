@@ -11,7 +11,10 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/ways_to_reach_a_number_in_increments_of"
+            "program": "${workspaceFolder}/Algorithms/Sorting/merge_sort_tests.mjs",
+            "runtimeArgs": [
+                "--experimental-modules"
+            ]
         }
     ]
 }
