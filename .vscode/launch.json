@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/Algorithms/Sorting/merge_sort_tests.mjs",
+            "program": "${workspaceFolder}/Algorithms/Dynamic Programming/snap_sack_unlimited_values.js",
             "runtimeArgs": [
                 "--experimental-modules"
             ]
